@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/com/example/restarun/SearchFragment.java" />
+        <ignore path="src/com/example/restarun/googleplaces/PlacesAPI.java" />
+    </issue>
+    <issue id="ValidFragment" severity="ignore">
+        <ignore path="src/com/example/restarun/ImageFragment.java" />
+    </issue>
+</lint>
